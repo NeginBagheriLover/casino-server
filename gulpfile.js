@@ -14,7 +14,8 @@ var gulp = require('gulp'),
 	jasmine = require('gulp-jasmine');
 
 gulp.task('default', ['clean', 'build'], function(){
-	//gulp.start('build');
+	//gulp.start('build');f
+	
 });
 
 gulp.task('clean', function(cb) {
